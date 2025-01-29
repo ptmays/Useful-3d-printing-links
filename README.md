@@ -30,3 +30,7 @@ https://github.com/simplisticton/v2-2566config
 
 PrintsLeo3d Macros:
 https://www.printsleo3d.com/macros
+
+
+CatBoat Klipper for Kobra Max:
+https://github.com/printers-for-people/catboat/wiki/KIAUH-Install

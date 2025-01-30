@@ -6,6 +6,8 @@ Clone your running SD Card to back it up (Jeff Geerling)
 https://github.com/geerlingguy/rpi-clone
 https://rpi-clone.jeffgeerling.com/
 
+Ender 3 Klipper Config:
+https://github.com/dudeofawesome/klipper-config
 
 Quick Kiauh link: 
 https://github.com/dw-0/kiauh

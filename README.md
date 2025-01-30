@@ -35,5 +35,6 @@ https://www.printsleo3d.com/macros
 CatBoat Klipper for Kobra Max:
 https://github.com/printers-for-people/catboat/wiki/KIAUH-Install
 
-Zippy Macros:
+Macros:
 https://github.com/rootiest/zippy-klipper_config
+https://github.com/Desuuuu/klipper-macros

@@ -38,3 +38,12 @@ https://github.com/printers-for-people/catboat/wiki/KIAUH-Install
 Macros:
 https://github.com/rootiest/zippy-klipper_config
 https://github.com/Desuuuu/klipper-macros
+
+
+Klipper on Android 
+https://github.com/gaifeng8864/klipper-on-android
+
+
+DroidKlipp Android KlipperScreen 
+https://github.com/CodeMasterCody3D/DroidKlipp
+

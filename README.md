@@ -44,6 +44,10 @@ https://github.com/Desuuuu/klipper-macros
 Klipper on Android 
 https://github.com/gaifeng8864/klipper-on-android
 
+BTT PiTFT70 Screen rotation 
+https://docs.ldomotors.com/en/guides/btt_43_rotate_guide
+
+
 
 DroidKlipp Android KlipperScreen 
 https://github.com/CodeMasterCody3D/DroidKlipp

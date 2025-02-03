@@ -45,7 +45,7 @@ Klipper on Android
 https://github.com/gaifeng8864/klipper-on-android
 
 BTT PiTFT70 Screen rotation 
-https://docs.ldomotors.com/en/guides/btt_43_rotate_guide
+[https://docs.ldomotors.com/en/guides/btt_43_rotate_guide](https://forums.raspberrypi.com/viewtopic.php?t=120785)
 
 
 

@@ -47,6 +47,9 @@ https://github.com/gaifeng8864/klipper-on-android
 BTT PiTFT70 Screen rotation 
 [https://docs.ldomotors.com/en/guides/btt_43_rotate_guide](https://forums.raspberrypi.com/viewtopic.php?t=120785)
 
+Cross platform remote desktop
+https://github.com/rustdesk/rustdesk/releases/tag/1.3.7
+
 
 
 DroidKlipp Android KlipperScreen 

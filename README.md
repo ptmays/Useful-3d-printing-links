@@ -51,7 +51,11 @@ Cross platform remote desktop
 https://github.com/rustdesk/rustdesk/releases/tag/1.3.7
 
 
-
 DroidKlipp Android KlipperScreen 
 https://github.com/CodeMasterCody3D/DroidKlipp
+https://www.youtube.com/watch?v=TcgTrkA8Oj0&t=366s
+https://www.youtube.com/watch?v=rdovXqrKivU&t=673s
+https://www.youtube.com/watch?v=TcgTrkA8Oj0&t=366s
+https://github.com/naruhaxor/AndroidKlipperScreen
+https://github.com/CodeMasterCody3D/DroidKlipp?tab=readme-ov-file
 

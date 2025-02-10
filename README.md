@@ -40,6 +40,8 @@ Macros:
 https://github.com/rootiest/zippy-klipper_config
 https://github.com/Desuuuu/klipper-macros
 
+Klipper USB Accelerometer
+https://github.com/xbst/KUSBA
 
 Klipper on Android 
 https://github.com/gaifeng8864/klipper-on-android

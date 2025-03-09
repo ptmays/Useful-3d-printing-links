@@ -63,3 +63,6 @@ https://github.com/CodeMasterCody3D/DroidKlipp?tab=readme-ov-file
 
 Stealthburner with cutter 
 https://github.com/thunderkeys/FilamATrix/tree/main
+
+Galileo Stealthburner 
+https://github.com/Mamsih/Galileo-stealthBurner/tree/main
